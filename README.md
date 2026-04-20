@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# 👋 Sylvia Wang
+
+```diff
++ Building data systems, dashboards & intelligent agents
++ Interested in AI, Quant, and Real-world Data Applications
+
 <!--
 **sylviawong3527/sylviawong3527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
