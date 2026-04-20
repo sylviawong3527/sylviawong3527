@@ -2,11 +2,7 @@
 
 # 👋 Sylvia Wang
 
-```diff
-+ Building data systems, dashboards & intelligent agents
-+ Interested in AI, Quant, and Real-world Data Applications
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;AI+Builder;Quant+Explorer)
 
-Here are some ideas to get you started:
-
-- 📫 How to reach me: sylviawang3527@gmail.com
+ 📫 How to reach me: sylviawang3527@gmail.com
 
